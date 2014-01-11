@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "zurb-foundation": {},
+    "just-i18n": {},
+    "iron-router": {}
+  }
+}
